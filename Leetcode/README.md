@@ -1,4 +1,5 @@
 # Leetcode
+## Phase 1(58)
 - [ ] Hard [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - [ ] Hard [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [ ] Medium [179. Largest Number](https://leetcode.com/problems/largest-number/)
@@ -57,3 +58,17 @@
 - [ ] Hard [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
 - [ ] Medium [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 - [ ] Hard [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
+## Phase 2
+- [ ] Hard [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [ ] Medium [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+- [ ] Medium [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [ ] Medium [524. Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
+- [ ] Hard [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [ ] Easy [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)
+- [ ] Hard [248. Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/)
+- [ ] Medium [394. Decode String](https://leetcode.com/problems/decode-string/)
+- [ ] Medium [776. Split BST](https://leetcode.com/problems/split-bst/)
+- [ ] Hard [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+- [ ] Hard [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)
+- [ ] Medium[894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)
