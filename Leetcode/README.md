@@ -84,3 +84,8 @@
 - [ ] Hard [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/)
 - [ ] Medium [837. New 21 Game](https://leetcode.com/problems/new-21-game/)
 - [ ] Medium [1525. Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)
+
+
+## Phase 3()
+- [ ] Medium [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
+- [ ] Hard [2242. Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)
