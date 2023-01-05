@@ -94,3 +94,4 @@
 - [ ] Hard [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)
 - [ ] Hard [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)
 - [ ] Easy [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+- [ ] Hard [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/)
