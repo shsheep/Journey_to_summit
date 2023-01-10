@@ -95,3 +95,4 @@
 - [ ] Hard [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)
 - [ ] Easy [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [ ] Hard [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/)
+- [ ] Hard [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
