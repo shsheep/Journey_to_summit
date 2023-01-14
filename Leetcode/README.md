@@ -96,4 +96,5 @@
 - [ ] Easy [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [ ] Hard [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 - [ ] Hard [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
-- [ ] Medium[918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- [ ] Medium [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- [ ] Hard [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
