@@ -98,3 +98,5 @@
 - [ ] Hard [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
 - [ ] Medium [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - [ ] Hard [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
+- [ ] Medium [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [ ] Medium [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
