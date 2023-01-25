@@ -105,3 +105,4 @@
 - [ ] Medium [139. Word Break](https://leetcode.com/problems/word-break/)
 - [ ] Medium [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] Medium [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+- [ ] Medium [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
