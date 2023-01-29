@@ -107,4 +107,5 @@
 - [ ] Medium [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
 - [ ] Medium [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 - [ ] Medium [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
-- [ ] Hard [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+- [ ] Hard [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [ ] Hard [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
