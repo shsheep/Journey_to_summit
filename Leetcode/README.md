@@ -109,3 +109,4 @@
 - [ ] Medium [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
 - [ ] Hard [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [ ] Hard [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+- [ ] Medium [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
