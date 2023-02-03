@@ -112,4 +112,5 @@
 - [ ] Medium [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [ ] Medium [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 - [ ] Medium [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
-- [ ] Medium[518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)
+- [ ] Medium [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+- [ ] Medium [322. Coin Change](https://leetcode.com/problems/coin-change/)
