@@ -119,3 +119,4 @@
 - [ ] Hard [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] Medium [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 - [ ] Medium [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+- [ ] Hard [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
