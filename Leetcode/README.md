@@ -121,4 +121,5 @@
 - [ ] Medium [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 - [ ] Hard [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [ ] Medium [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
-- [ ] Medium[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [ ] Medium [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [ ] Medium [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
