@@ -123,3 +123,5 @@
 - [ ] Medium [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] Medium [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] Medium [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+- [ ] Medium [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [ ] Hard [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
