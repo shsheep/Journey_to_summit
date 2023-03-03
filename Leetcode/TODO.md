@@ -22,3 +22,4 @@
 - [ ] String parsing, Implementation(ex. String tokenization, Rotating matrix)
 - [ ] Permutation and combination
 - [ ] Recursion
+- [ ] Being familiar to use STL(Data structure) and Cpp syntax, Pointers
