@@ -1,0 +1,24 @@
+# TODO
+- [ ] Brute force
+- [ ] Greedy
+- [ ] BFS
+- [ ] DFS
+- [ ] Backtracking
+- [ ] Two pointers
+- [ ] Sort(Sort, Merge sort, Topological)
+- [ ] Prefix sum
+- [ ] Stack(Stack, Monotonic stack)
+- [ ] Queue(Queue, Monotonic queue, Deque)
+- [ ] Heap(Max heap, Min heap)
+- [ ] Ordered set(map, unordered_map)
+- [ ] Graph(Dijkstra, Bellman-ford, Floyd Warshall)
+- [ ] Hash
+- [ ] Binary search
+- [ ] Dynamic programming
+- [ ] Tree(Binary search tree)
+- [ ] Divide and conquer
+- [ ] Linked list
+- [ ] Line sweep, Sliding window
+- [ ] String parsing, Implementation(ex. String tokenization, Rotating matrix)
+- [ ] Permutation and combination
+- [ ] Recursion
