@@ -127,3 +127,6 @@
 - [ ] Hard [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [ ] Hard [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [ ] Medium [2568. Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/)
+
+## Math()
+- [ ] Medium [343. Integer Break](https://leetcode.com/problems/integer-break/)
