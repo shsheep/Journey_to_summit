@@ -1,4 +1,6 @@
 # TODO
+- [ ] Implementation
+- [ ] Trie
 - [ ] Brute force
 - [ ] Greedy
 - [ ] BFS
