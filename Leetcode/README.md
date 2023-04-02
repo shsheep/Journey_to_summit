@@ -100,8 +100,7 @@
 - [ ] Hard [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
 - [ ] Medium [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] Medium [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
-- [ ] Medium [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
-- [ ] Medium [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+
 - [ ] Medium [139. Word Break](https://leetcode.com/problems/word-break/)
 - [ ] Medium [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] Medium [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
@@ -133,6 +132,14 @@
 - [ ] Medium [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [ ] Hard [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [ ] Hard [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
+
+
+
+## Series
+- [ ] Easy [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] Medium [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [ ] Medium [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+- [ ] Medium [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 - [ ] Hard [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 
 ## Math()
