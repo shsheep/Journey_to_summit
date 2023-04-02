@@ -85,8 +85,7 @@
 - [ ] Medium [837. New 21 Game](https://leetcode.com/problems/new-21-game/)
 - [ ] Medium [1525. Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)
 
-
-## Phase 3()
+## Phase 3
 - [ ] Medium [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
 - [ ] Hard [2242. Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)
 - [ ] Medium [2128. Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/)
@@ -100,7 +99,6 @@
 - [ ] Hard [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
 - [ ] Medium [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] Medium [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
-
 - [ ] Medium [139. Word Break](https://leetcode.com/problems/word-break/)
 - [ ] Medium [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] Medium [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
@@ -132,8 +130,6 @@
 - [ ] Medium [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [ ] Hard [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [ ] Hard [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
-
-
 
 ## Series
 - [ ] Easy [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
