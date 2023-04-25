@@ -130,6 +130,7 @@
 - [ ] Medium [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [ ] Hard [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [ ] Hard [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
+- [ ] Medium [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 
 ## Series
 - [ ] Easy [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
