@@ -134,6 +134,7 @@
 - [ ] Medium [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)
 - [ ] Medium [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 - [ ] Hard [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)
+- [ ] Medium[2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/)
 
 ## Series
 - [ ] Easy [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
