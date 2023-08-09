@@ -133,6 +133,7 @@
 - [ ] Medium [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 - [ ] Medium [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)
 - [ ] Medium [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- [ ] Hard [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)
 
 ## Series
 - [ ] Easy [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
